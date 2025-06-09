@@ -8,22 +8,22 @@ export default function Hero() {
     return (
         <section className="py-24 overflow-x-clip">
             <div className="container relative">
-                <div className="absolute -left-32 top-16">
+                <div className="absolute -left-32 top-16 hidden lg:block">
                     <Image
                         src={designExample1Image}
                         alt="Design example 1 image"
                     />
                 </div>
-                <div className="absolute -right-64 -top-16">
+                <div className="absolute -right-64 -top-16 hidden lg:block">
                     <Image
                         src={designExample2Image}
                         alt="Design example 2 image"
                     />
                 </div>
-                <div className="absolute left-56 top-96">
+                <div className="absolute left-56 top-96 hidden lg:block">
                     <Pointer name="Tirth"/>
                 </div>
-                <div className="absolute right-80 -top-4">
+                <div className="absolute right-80 -top-4 hidden lg:block">
                     <Pointer name="Adarsh" color="red"/>
                 </div>
                 <div className="flex justify-center">
