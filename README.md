@@ -50,3 +50,7 @@ A fully responsive, interactive, and visually striking **Layers Landing Page**, 
 
 ---
 
+## Preview
+### 🖥️ Desktop View (1200px+)
+![Desktop View](./desktop-1200px.png)
+
