@@ -50,10 +50,3 @@ A fully responsive, interactive, and visually striking **Layers Landing Page**, 
 
 ---
 
-## 🚀 Getting Started Locally
-
-```bash
-git clone https://github.com/yourusername/layers-landing-clone.git
-cd layers-landing-clone
-npm install
-npm run dev
