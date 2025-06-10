@@ -1,9 +1,9 @@
 "use client";
 
 import Tag from "@/components/Tag";
+import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react";
 import { twMerge } from "tailwind-merge";
-import { AnimatePresence, motion } from "framer-motion";
 
 const faqs = [
     {

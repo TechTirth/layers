@@ -1,10 +1,10 @@
 "use client"
 
 import { type IntegrationsType } from "@/sections/Integrations";
-import Image from "next/image";
-import { twMerge } from "tailwind-merge";
 import { motion } from "framer-motion";
+import Image from "next/image";
 import { Fragment } from "react";
+import { twMerge } from "tailwind-merge";
 
 export default function IntegrationsColumn(props: {
     integrations: IntegrationsType;

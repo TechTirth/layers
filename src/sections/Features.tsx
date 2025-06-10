@@ -1,12 +1,12 @@
-import FeatureCard from "@/components/FeatureCard";
-import Tag from "@/components/Tag";
 import avatar1 from "@/assets/images/avatar-ashwin-santiago.jpg";
-import avatar2 from "@/assets/images/avatar-lula-meyers.jpg";
 import avatar3 from "@/assets/images/avatar-florence-shaw.jpg";
+import avatar2 from "@/assets/images/avatar-lula-meyers.jpg";
 import avatar4 from "@/assets/images/avatar-owen-garcia.jpg";
-import Image from "next/image";
 import Avatar from "@/components/Avatar";
+import FeatureCard from "@/components/FeatureCard";
 import Key from "@/components/Key";
+import Tag from "@/components/Tag";
+import Image from "next/image";
 
 const features = [
     "Asset Library",

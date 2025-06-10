@@ -1,4 +1,4 @@
-import React, { HTMLAttributes } from 'react';
+import { HTMLAttributes } from 'react';
 import { twMerge } from 'tailwind-merge';
 
 export default function Tag(props: HTMLAttributes<HTMLDivElement>){
